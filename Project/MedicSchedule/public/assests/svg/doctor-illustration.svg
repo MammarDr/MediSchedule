@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500" fill="none"><g id="doctor-illustration">
+<path id="background-shape" d="M107.5 453C47.5 419.167 7.5 329.5 37.5 245C67.5 160.5 199 109 300 109C401 109 474 205.5 526.5 245C579 284.5 559 400.5 496 435.5C433 470.5 167.5 486.833 107.5 453Z" fill="#E6F7FF" fill-opacity="0.5"/>
+<path id="shadow" d="M338 426.5C415.2 426.5 478 411.979 478 394C478 376.021 415.2 361.5 338 361.5C260.8 361.5 198 376.021 198 394C198 411.979 260.8 426.5 338 426.5Z" fill="#CCCCCC" fill-opacity="0.2"/>
+<path id="coat" d="M330 394C330 394 328.5 312 330 276.5C331.5 241 350 208.5 350 208.5L365 212L393.5 220L411 230.5C411 230.5 404 277 403 290C402 303 403 394 403 394H330Z" 
+fill="#1890FF"/><path id="coat-highlight" 
+d="M350 208.5C350 208.5 371 244 372.5 280.5C374 317 373 394 373 394H403C403 394 402 303 403 290C404 277 411 230.5 411 230.5L393.5 220L365 212L350 208.5Z" fill="#40A9FF"/>
+<path id="face" d="M368 170.5C368 187.121 352.673 200.5 333.5 200.5C314.327 200.5 299 187.121 299 170.5C299 153.879 314.327 140.5 333.5 140.5C352.673 140.5 368 153.879 368 170.5Z" 
+fill="#FFD8C9"/><path id="hair" 
+d="M368 159.5C368 159.5 369.5 145 363.5 138C357.5 131 349 125.5 333.5 125.5C318 125.5 307.5 131 301.5 138C295.5 145 299 159.5 299 159.5C299 159.5 293 144 297.5 134.5C302 125 312.5 115.5 333.5 115.5C354.5 115.5 365 125 369.5 134.5C374 144 368 159.5 368 159.5Z" fill="#333333"/>
+<path id="glasses" d="M358 165.5C358 170.747 350.722 175 341.75 175C332.778 175 325.5 170.747 325.5 165.5C325.5 160.253 332.778 156 341.75 156C350.722 156 358 160.253 358 165.5Z" fill="#E6F7FF" fill-opacity="0.5" stroke="#40A9FF" stroke-width="1.5"/>
+<path id="glasses-connector" d="M325.5 165.5H310.5" stroke="#40A9FF" stroke-width="1.5"/><path id="glasses-2" d="M310.5 165.5C310.5 170.747 303.222 175 294.25 175C285.278 175 278 170.747 278 165.5C278 160.253 285.278 156 294.25 156C303.222 156 310.5 160.253 310.5 165.5Z" fill="#E6F7FF" fill-opacity="0.5" stroke="#40A9FF" stroke-width="1.5"/>
+<path id="stethoscope" d="M350 230.5C350 230.5 358 242 358 250.5C358 259 344.5 282 344.5 282" stroke="#13C2C2" stroke-width="3" stroke-linecap="round"/><path id="stethoscope-end" d="M344.5 290C348.642 290 352 286.642 352 282.5C352 278.358 348.642 275 344.5 275C340.358 275 337 278.358 337 282.5C337 286.642 340.358 290 344.5 290Z" fill="#13C2C2"/>
+<rect id="clipboard" x="310" y="250" width="25" height="35" rx="2" fill="#FFFFFF" stroke="#1890FF" stroke-width="1.5"/>
+<line id="clipboard-line-1" x1="315" y1="260" x2="330" y2="260" stroke="#1890FF" stroke-width="1.5"/>
+<line id="clipboard-line-2" x1="315" y1="265" x2="330" y2="265" stroke="#1890FF" stroke-width="1.5"/>
+<line id="clipboard-line-3" x1="315" y1="270" x2="325" y2="270" stroke="#1890FF" stroke-width="1.5"/>
+<path id="arm" d="M290 260C290 260 270 290 270 310C270 330 288 345 295 350" stroke="#1890FF" stroke-width="20" stroke-linecap="round"/>
+<path id="hand" d="M295 350C295 350 298.5 357.5 292.5 361.5C286.5 365.5 278 361.5 278 361.5" stroke="#FFD8C9" stroke-width="8" stroke-linecap="round"/>
+<rect id="cross-vertical" x="450" y="135" width="12" height="40" rx="2" fill="#1890FF"/><rect id="cross-horizontal" x="436" y="149" width="40" height="12" rx="2" fill="#1890FF"/>
+<circle id="cross-circle" cx="456" cy="155" r="30" stroke="#1890FF" stroke-width="2" stroke-dasharray="4 4"/></g></svg>
